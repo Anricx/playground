@@ -1,2 +1,8 @@
-# playground
-My Playground
+# 我的踩坑日记
+
+代码写不动了, 我提前踩坑的成功奉献给大家。
+
+如果你愿意支持我可以:
+
+![:)](.media/coffee.jpeg)
+
